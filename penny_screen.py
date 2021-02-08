@@ -234,6 +234,6 @@ def main():
                 
     
     
-print(full_options(price_limit = 10))
+
     
 
