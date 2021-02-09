@@ -18,6 +18,7 @@ Then run full_options(). Price limit is again 10 by default. This will output a 
 IE code
 
 full_screen(Exchange_Path = 'NASDAQ', price_limit = 5)
+
 full_option(price_limit = 5)
 
 full_screen only needs to be ran once and from then on you can just use full_options for any stocks below that price threshold. 
