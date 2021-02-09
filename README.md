@@ -11,9 +11,8 @@ Robinhood does not support trading on many of the smaller NASDAQ stocks that wil
 
 USAGE GUIDE
 
-First run full_screen(). Set Exchange_Path to which ever exchange you want to use, Either NASDAQ or NYSE. NYSE is the default. Set your price limit, default is $10
-This will output a text file with a list of all the stocks under that set price limit. 
-Then run full_options(). Price limit is again 10 by default. This will output a text file with a list of all stocks that support options and are under that price threshold
+First run full_screen(). Set Exchange_Path to which ever exchange you want to use, Either NASDAQ or NYSE. NYSE is the default. Set your price limit, default is $10.
+This will output a text file with a list of all the stocks under that set price limit. Then run full_options(). Price limit is again 10 by default. This will output a text file with a list of all stocks that support options and are under that price threshold
 
 IE code
 
